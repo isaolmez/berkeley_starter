@@ -1,2 +1,2 @@
-# berkeley_starter
-Examples shoeing Berkeley DB traditional API usage
+# Berkeley Starter
+Examples showing Berkeley DB traditional(key/value) API usage
